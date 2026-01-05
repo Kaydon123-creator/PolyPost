@@ -1,0 +1,3 @@
+Erreur avec loginButton.jsx
+homePage.jsx en cours
+reactionContainer.jsx commencé mais pas testé
